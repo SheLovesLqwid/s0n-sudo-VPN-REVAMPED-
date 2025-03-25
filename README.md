@@ -191,10 +191,6 @@ If you would like to contribute to this project, please fork the repository, mak
 ---
 
 
-Certainly! Here’s a modified version of the "License" section that reflects your request:
-
----
-
 ## Special Thanks
 
 A huge **thank you** to **[S0n-sudo](https://github.com/S0n-sudo)** for creating the original VPN project. His work truly opened my eyes to the power of building a self-made VPN, and I can't believe I didn't think about it sooner. The code here is based entirely on his original implementation. All I did was revamp and add new features to enhance it. Please make sure to check out and give credit to the original creator for the core work — none of this would be possible without his vision.

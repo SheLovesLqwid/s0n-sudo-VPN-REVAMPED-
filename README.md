@@ -116,7 +116,7 @@ Before you can use the VPN system, you need to have the following dependencies i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/S0n-sudo/Self-made-VPN.git
+   git clone https://github.com/SheLovesLqwid/s0n-sudo-VPN-REVAMPED-.git
    cd Self-made-VPN
    ```
 
